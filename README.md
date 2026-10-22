@@ -36,3 +36,6 @@ Os dados de oferta, custos, currículos, áreas de acesso, vagas, bolsas, empreg
 
 
 **Correção do import:** a inserção de `campus` foi ajustada para que as 11 colunas tenham 11 valores em cada registo. Use o script desta versão corrigida.
+
+##LINK DO VIDEO DO YOUTUBE:
+https://www.youtube.com/watch?v=MSzZ3oqqiHw&authuser=0
